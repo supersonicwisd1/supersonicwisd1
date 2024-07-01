@@ -1,6 +1,6 @@
 # Hi, I'm Kenechukwu Orjiene 👋
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kenechukwu-orjiene/kenechukwu-orjiene)](https://github.com/kenechukwu-orjiene)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=supersonicwisd1/supersonicwisd1)](https://github.com/supersonicwisd1)
 ![Follow on Twitter](https://img.shields.io/twitter/follow/Supersonicwisd1?style=social)
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Lifelong+Learner;Problem+Solver;From+Nigeria&center=true&size=30" align="center">
@@ -35,10 +35,10 @@ I'm a passionate Software Engineer from Nigeria, currently pursuing my Bachelor'
 
 ## 🏆 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kenechukwu-orjiene&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=supersonicwisd1&theme=dark)](https://git.io/streak-stats)
 
 ## 📈 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=kenechukwu-orjiene&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=supersonicwisd1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Let's Connect!
 
